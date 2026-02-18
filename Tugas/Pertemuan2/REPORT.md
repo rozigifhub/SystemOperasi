@@ -1,6 +1,6 @@
-|  | Algorithm and Data Structure |
+|  | System Operasi  |
 |--|--|
-| NIM |  1234567|
-| Nama |  You know who |
-| Kelas | TI - 1I |
-| Repository | [link] (https://github.com/jti-polinema/-01-contoh-laporan-react) |
+| NIM |  254107020081|
+| Nama |  Muhammad Zainur Roziqin |
+| Kelas | TI - 1G |
+| Repository | [link] (https://github.com/rozigifhub/SystemOperasi/blob/Rozi/Tugas/Pertemuan2/REPORT.md) |
