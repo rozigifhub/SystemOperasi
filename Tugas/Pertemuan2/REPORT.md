@@ -9,13 +9,20 @@
 
 ## Praktikum 2.1 - Identifikasi CPU dan Memori
 
-![Screenshot](hasil/image1.png)
+![Screenshot](Hasil/image1.png)
+lscpu
 
-**Brief explanaton:** There are 4 main step: 
-1. Input all grades
-2. Validate the input
-3. Calculate and convert the final grade
-4. Decide the final status
+Melihat informasi CPU
 
-## 2.1.1. Selection Solution
-Continue to report the result....
+![Screenshot](Hasil/image2.png)
+free -h
+
+Melihat penggunaan memori
+
+## Praktikum 2.2 - Identifikasi Perangkat PCI/USB dan Driver
+
+![Screenshot](Hasil/image3.png)
+
+Melihat daftar PCI
+
+
