@@ -1,7 +1,7 @@
 # Laporan Praktikum 6
 
-<h4>Nama : rozitira Putra Hartanto<h4>
-<h4>Nim : 254107020083<h4>
+<h4>Nama : Muhammad Zainur Roziqin<h4>
+<h4>Nim : 254107020081<h4>
 <h4>Kelas : TI-1G<h4>
 
 ## Praktikum 6.1 — Melihat Proses dan Thread
