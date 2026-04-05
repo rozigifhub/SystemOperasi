@@ -114,8 +114,8 @@ $ pwd
 
 output  
 ```bash
-root@ubuntuser:/home/yudhis# mkdir -p ~/praktikum-os/week04
-root@ubuntuser:/home/yudhis# cd ~/praktikum-os/week04
+root@ubuntuser:/home/rozi# mkdir -p ~/praktikum-os/week04
+root@ubuntuser:/home/rozi# cd ~/praktikum-os/week04
 root@ubuntuser:~/praktikum-os/week04# pwd
 /root/praktikum-os/week04
 root@ubuntuser:~/praktikum-os/week04# cd
@@ -335,7 +335,7 @@ tss:x:106:108:TPM software stack,,,:/var/lib/tpm:/bin/false
 landscape:x:107:109::/var/lib/landscape:/usr/sbin/nologin
 fwupd-refresh:x:989:989:Firmware update daemon:/var/lib/fwupd:/usr/sbin/nologin
 usbmux:x:108:46:usbmux daemon,,,:/var/lib/usbmux:/usr/sbin/nologin
-yudhis:x:1000:1000:yudhis:/home/yudhis:/bin/bash
+rozi:x:1000:1000:rozi:/home/rozi:/bin/bash
 sshd:x:109:65534::/run/sshd:/usr/sbin/nologin
 root@ubuntuser:/etc# cd -
 /
@@ -479,7 +479,7 @@ crw-------  1 root   root     10, 203 Mar  7 05:49 cuse
 drwxr-xr-x  7 root   root         140 Mar  7 05:49 disk
 drwxr-xr-x  2 root   root          60 Mar  7 05:49 dma_heap
 root@ubuntuser:/dev# who am i
-yudhis   pts/2        2026-03-07 06:17 (10.0.2.2)
+rozi   pts/2        2026-03-07 06:17 (10.0.2.2)
 root@ubuntuser:/dev# ls -l /dev/pts/2
 crw--w---- 1 root tty 136, 2 Mar  7 07:25 /dev/pts/2
 root@ubuntuser:/dev# ls -l /dev/pts/0
@@ -657,15 +657,15 @@ root@ubuntuser:/proc# cat uptime
 
 Output 
 ```bash
-root@ubuntuser:/proc# cd ~yudhis
-root@ubuntuser:/home/yudhis#
+root@ubuntuser:/proc# cd ~rozi
+root@ubuntuser:/home/rozi#
 ```  
 
 ### 6. Ubah kembali ke direktory home Anda
 
 Output 
 ```bash
-root@ubuntuser:/home/yudhis# cd
+root@ubuntuser:/home/rozi# cd
 root@ubuntuser:~# pwd
 /root
 root@ubuntuser:~#
@@ -747,7 +747,7 @@ root@ubuntuser:~# cd play
 root@ubuntuser:~/play# pwd
 /root/play
 root@ubuntuser:~/play# who am i
-yudhis   pts/2        2026-03-07 06:17 (10.0.2.2)
+rozi   pts/2        2026-03-07 06:17 (10.0.2.2)
 root@ubuntuser:~/play# ln -s /dev/pts/2 terminal
 root@ubuntuser:~/play# ls -l
 total 4
